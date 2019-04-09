@@ -2,7 +2,7 @@
 
 This test covers:
 
- - Forword lookup 
+ - Forward lookup 
  - Reverse Lookup
  - Viewport Biasing
  - Region Biasing
